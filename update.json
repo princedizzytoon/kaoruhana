@@ -372,6 +372,14 @@
       "groups": {
         "KManga": "/proxy/api/imgchest/chapter/lqye6pmaq4d"
       }
+    },
+    "126": {
+      "title": "",
+      "volume": "17",
+      "last_updated": "",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/"
+      }
     }
 }
 }
