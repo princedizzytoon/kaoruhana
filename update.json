@@ -5,6 +5,54 @@
   "author": "Saka Mikami",
   "cover": "https://i.imgur.com/t8QRcg6.png",
   "chapters": {
+    "1": {
+      "title": "Rintaro and Kaoruko",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/qb4zw6ebl4j"
+      }
+    },
+    "2": {
+      "title": "Chidori and Kikyo",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/lqyeqj2bzyd"
+      }
+    },
+    "3": {
+      "title": "Exam Crunch",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/na7kdxmjm48"
+      }
+    },
+    "4": {
+      "title": "Kaoruko’s Friend",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/agyvvzq3zy8"
+      }
+    },
+    "5": {
+      "title": "Study Session",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/md7oezw294p"
+      }
+    },
+     "5.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "last_updated": "1731439800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/6eyrxr9q6yp"
+      }
+    },
      "80": {
       "title": "Subaru's Birthday",
       "volume": "11",
