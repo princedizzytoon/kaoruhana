@@ -690,23 +690,23 @@
       "volume": "10",
       "last_updated": "1733160600",
       "groups": {
-        "I'd Rather Sleep": "/proxy/api/imgchest/chapter/m9yxmjvkp4q"
+        "The Hungry Scans": "/proxy/api/imgchest/chapter/m9yxmjvkp4q"
       }
     },
      "78": {
-      "title": "",
+      "title": "Field Trip",
       "volume": "11",
-      "last_updated": "1731612630",
+      "last_updated": "1733161200",
       "groups": {
-        "KManga": "/proxy/api/imgur/chapter/"
+        "KManga": "/proxy/api/imgur/chapter/n87welvvx7x"
       }
     },
      "79": {
-      "title": "",
+      "title": "Memories Of The Trip",
       "volume": "11",
-      "last_updated": "1731612630",
+      "last_updated": "1733161200",
       "groups": {
-        "KManga": "/proxy/api/imgur/chapter/"
+        "KManga": "/proxy/api/imgur/chapter/qe4g2ellq7j"
       }
     },
      "80": {
@@ -758,11 +758,11 @@
       }
     },
     "85.5": {
-      "title": "",
+      "title": "Sotaro Tsumugi's Thoughts",
       "volume": "11",
-      "last_updated": "1731612630",
+      "last_updated": "1733161200",
       "groups": {
-        "I'd Rather Sleep": "/proxy/api/imgur/chapter/"
+        "The Hungry Scans": "/proxy/api/imgchest/chapter/"
       }
     },
     "86": {
@@ -827,6 +827,14 @@
       "last_updated": "1723069038",
       "groups": {
         "KManga": "/proxy/api/imgur/chapter/Uks9kYD"
+      }
+    },
+    "87.5": {
+      "title": "Kaoruko And The School Uniform",
+      "volume": "12",
+      "last_updated": "1733161200",
+      "groups": {
+        "Poor Grammar Scans": "/proxy/api/imgchest/chapter/qe4g2elrq7j"
       }
     },
     "94": {
