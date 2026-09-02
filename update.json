@@ -1772,5 +1772,13 @@
         "KManga": "/proxy/api/imgchest/chapter/pg73xnzb37r"
       }
     }
+    "200": {
+      "title": "Your Smile",
+      "volume": "26",
+      "last_updated": "1788361200",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/pg73vxk63yr"
+      }
+    }
 }
 }
