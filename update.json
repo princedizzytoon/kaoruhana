@@ -1676,6 +1676,14 @@
         "KManga": "/proxy/api/imgchest/chapter/bp45jeoggy5"
       }
     },
+    "187.5": {
+      "title": "Volume 24 Extras",
+      "volume": "24",
+      "last_updated": "1788886612",
+      "groups": {
+        "apix": "/proxy/api/imgchest/chapter/6eyrjanx64p"
+      }
+    },
     "188": {
       "title": "For the First Time",
       "volume": "25",
@@ -1786,6 +1794,14 @@
       "last_updated": "1788966000",
       "groups": {
         "KManga": "/proxy/api/imgchest/chapter/9249ra2vb4n"
+      }
+    },
+    "202": {
+      "title": "As A Friend",
+      "volume": "26",
+      "last_updated": "1789570800",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/a846j3ozw7x"
       }
     }
 }
